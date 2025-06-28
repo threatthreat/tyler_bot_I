@@ -53,7 +53,7 @@ FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://heisenberg:walder1
 COLLECTION_NAME = environ.get("COLLECTION_NAME", "SilentXBotz_files")
 
 # Other Channel's
-SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1001864434358"))
+SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1002587184746"))
 DELETE_CHANNELS = int(environ.get("DELETE_CHANNELS", "-1002659103545"))
 request_channel = environ.get("REQUEST_CHANNEL", "-1002512625570")
 REQUEST_CHANNEL = (
