@@ -159,12 +159,12 @@ async def start(client: Client, message):
                 )
             ],
             [
-                InlineKeyboardButton("• ᴅɪꜱᴀʙʟᴇ ᴀᴅꜱ •", callback_data="jisshupremium"),
-                InlineKeyboardButton("• ꜱᴘᴇᴄɪᴀʟ •", callback_data="special"),
+                 InlineKeyboardButton("👑 ᴅɪꜱᴀʙʟᴇ ᴀᴅꜱ", callback_data="jisshupremium"),
+                 InlineKeyboardButton("✨ ꜱᴘᴇᴄɪᴀʟ", callback_data="special"),
             ],
             [
-                InlineKeyboardButton("• ʜᴇʟᴘ •", callback_data="help"),
-                InlineKeyboardButton("• ᴀʙᴏᴜᴛ •", callback_data="about"),
+                 InlineKeyboardButton("⚙️ ʜᴇʟᴘ", callback_data="help"),
+                 InlineKeyboardButton("🗿 ᴀʙᴏᴜᴛ", callback_data="about"),
             ],
             [
                 InlineKeyboardButton(
@@ -201,12 +201,12 @@ async def start(client: Client, message):
                 )
             ],
             [
-                InlineKeyboardButton("• ᴅɪꜱᴀʙʟᴇ ᴀᴅꜱ •", callback_data="jisshupremium"),
-                InlineKeyboardButton("• ꜱᴘᴇᴄɪᴀʟ •", callback_data="special"),
+                InlineKeyboardButton("👑 ᴅɪꜱᴀʙʟᴇ ᴀᴅꜱ", callback_data="jisshupremium"),
+                InlineKeyboardButton("✨ ꜱᴘᴇᴄɪᴀʟ", callback_data="special"),
             ],
             [
-                InlineKeyboardButton("• ʜᴇʟᴘ •", callback_data="help"),
-                InlineKeyboardButton("• ᴀʙᴏᴜᴛ •", callback_data="about"),
+                InlineKeyboardButton("⚙️ ʜᴇʟᴘ", callback_data="help"),
+                InlineKeyboardButton("🗿 ᴀʙᴏᴜᴛ", callback_data="about"),
             ],
             [
                 InlineKeyboardButton(
@@ -428,7 +428,7 @@ async def start(client: Client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="😁 ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ - ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ 😁",
+                        text="🛍 ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ - ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ 😁",
                         callback_data="getpremium",
                     ),
                 ],
